@@ -1,0 +1,9 @@
+Name,Department,Address,Phone,ID,Slots
+Ismail Mohamed,Cardiology,Street 100,01002024476,11,"['slot1:From 12 to 12:30', 'slot2:From 12:30 to 1pm', 'slot3:From 1:30 to 2pm']"
+Osama Ahmed,Cardiology,Street 101,01118897765,12,"['slot1:From 1 to 1:30pm', 'slot2:From 2 to 2:30pm']"
+Hossam Noureldin,Neurology,Street 102,01155532765,13,"['slot1:From 12 to 12:30', 'slot2:From 12:30 to 1pm', 'slot3:From 1 to 1:30pm', 'slot4:From 1:30 to 2pm', 'slot5:From 2 to 2:30pm', 'slot6:From 2:30 to 3pm']"
+Ahmed Abdelaziz,Orthopedics,Street 103,01254454465,14,"['slot1:From 12 to 12:30', 'slot2:From 12:30 to 1pm', 'slot3:From 1 to 1:30pm', 'slot4:From 1:30 to 2pm', 'slot5:From 2 to 2:30pm', 'slot6:From 2:30 to 3pm']"
+Wael Mounir,Orthopedics,Street 104,01247736225,15,"['slot1:From 12 to 12:30', 'slot2:From 12:30 to 1pm', 'slot3:From 1 to 1:30pm', 'slot4:From 1:30 to 2pm', 'slot5:From 2 to 2:30pm', 'slot6:From 2:30 to 3pm']"
+Sherif Reda,Opthalmology,Street 105,0353525235225,16,"['slot1:From 12 to 12:30', 'slot2:From 12:30 to 1pm', 'slot3:From 1 to 1:30pm', 'slot4:From 1:30 to 2pm', 'slot5:From 2 to 2:30pm', 'slot6:From 2:30 to 3pm']"
+Alaa Badr,Opthalmology,Street 106,01555533335,17,"['slot1:From 12 to 12:30', 'slot2:From 12:30 to 1pm', 'slot3:From 1 to 1:30pm', 'slot4:From 1:30 to 2pm', 'slot5:From 2 to 2:30pm', 'slot6:From 2:30 to 3pm']"
+Mohamed saed,Cardiology,st009,023323442,21,Not Available
